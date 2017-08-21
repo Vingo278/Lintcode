@@ -23,6 +23,6 @@ int maxSubArray(vector<int> nums) {
 
 int main() {
     vector<int> vec {-2, 2, -3, 4, -1, 2, 1, -5, 3};
-    printf("%d\n", maxSubarray(vec));
+    printf("%d\n", maxSubArray(vec));
     return 0;
 }
